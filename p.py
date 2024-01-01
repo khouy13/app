@@ -3,7 +3,7 @@ import glob
 import os
 from PIL import Image
 import numpy as np
-
+#hhhhh c'est main
 # Set the desired width and height for the images
 desired_width = 300
 desired_height = 200
